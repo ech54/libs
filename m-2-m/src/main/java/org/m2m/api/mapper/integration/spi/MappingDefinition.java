@@ -1,4 +1,4 @@
-package org.m2m.api.mapper.api;
+package org.m2m.api.mapper.integration.spi;
 
 /**
  * Mapping definition contract to implement with custom model mapping.

@@ -4,8 +4,6 @@ import java.util.ServiceLoader;
 import java.util.function.BiConsumer;
 
 import org.m2m.api.mapper.ModelKnowledger;
-import org.m2m.api.mapper.api.MappingDefinition;
-import org.m2m.api.mapper.api.ModelMappingFactory;
 import org.m2m.api.mapper.exception.ModelMapperException;
 import org.m2m.api.model.support.ModelDefinitionSupport;
 

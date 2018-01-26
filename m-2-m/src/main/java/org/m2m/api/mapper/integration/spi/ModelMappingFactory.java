@@ -1,4 +1,4 @@
-package org.m2m.api.mapper.api;
+package org.m2m.api.mapper.integration.spi;
 
 import org.m2m.api.mapper.ModelKnowledger;
 import org.m2m.api.mapping.ModelMapping;
