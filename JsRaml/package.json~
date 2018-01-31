@@ -1,0 +1,18 @@
+{
+  "name": "jsraml",
+  "version": "1.0.0",
+  "description": "Raml parser JS library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emilien Charton",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2016": "^6.24.1"
+  },
+  "script": {
+	"build": "babel src/ --out-dir lib/"  
+  }
+}

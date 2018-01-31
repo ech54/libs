@@ -1,0 +1,15 @@
+{
+  "name": "jsraml",
+  "version": "1.0.0",
+  "description": "Raml parser JS library",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src/ --out-dir lib/"
+  },
+  "author": "Emilien Charton",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
